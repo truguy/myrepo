@@ -11,6 +11,7 @@ myrepository demo
 DevOps 예제입니다.
 
 ---
-'''
-sudo apt-get install apache -y
-'''
+```
+sudo agt-get install apache -y
+```
+
